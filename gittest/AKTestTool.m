@@ -9,4 +9,12 @@
 
 @implementation AKTestTool
 
+- (void)eat {
+    NSLog(@"eat food.");
+    
+    
+}
+
+
+
 @end
