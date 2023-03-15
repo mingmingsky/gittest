@@ -19,6 +19,7 @@
     
     NSLog(@"hello");
     NSLog(@"test");
+    NSLog(@"world");
 }
 
 
