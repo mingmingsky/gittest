@@ -22,7 +22,7 @@
     NSLog(@"world");
     
     [self test:5 Block:^{
-        NSLog(@"hello1");
+        NSLog(@"hello11111");
     }];
     
     [self test:2 Block:^{
