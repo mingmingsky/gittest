@@ -15,6 +15,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    // Do any additional setup after loading the view.
+    
+    NSLog(@"hello");
+    NSLog(@"test");
+    NSLog(@"world");
     
     [self test:5 Block:^{
         NSLog(@"hello1");
