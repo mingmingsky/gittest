@@ -32,6 +32,7 @@
 		866F4EF529C081630025848F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		866F4EFC29C0852C0025848F /* AKTestTool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AKTestTool.h; sourceTree = "<group>"; };
 		866F4EFD29C0852C0025848F /* AKTestTool.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AKTestTool.m; sourceTree = "<group>"; };
+		86F8516729C1D4F60031A4F1 /* Directions.geojson */ = {isa = PBXFileReference; lastKnownFileType = text; path = Directions.geojson; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +71,7 @@
 				866F4EE729C081620025848F /* SceneDelegate.m */,
 				866F4EE929C081620025848F /* ViewController.h */,
 				866F4EEA29C081620025848F /* ViewController.m */,
+				86F8516729C1D4F60031A4F1 /* Directions.geojson */,
 				866F4EFC29C0852C0025848F /* AKTestTool.h */,
 				866F4EFD29C0852C0025848F /* AKTestTool.m */,
 				866F4EEC29C081620025848F /* Main.storyboard */,
