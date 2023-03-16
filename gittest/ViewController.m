@@ -17,6 +17,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     // Edit from github web
+    // Edit from github web 2
     NSLog(@"hello");
     NSLog(@"test");
     NSLog(@"world");
